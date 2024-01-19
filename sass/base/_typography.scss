@@ -1,0 +1,8 @@
+@use '../abstracts/variables';
+p {
+    color: variables.$color-secondary;
+}
+
+h2 {
+    color: variables.$color-secondary;
+}
